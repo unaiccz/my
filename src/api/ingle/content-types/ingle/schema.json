@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ingles",
+  "info": {
+    "singularName": "ingle",
+    "pluralName": "ingles",
+    "displayName": "ingle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "apuntes": {
+      "type": "richtext"
+    }
+  }
+}

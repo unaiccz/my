@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bbdds",
+  "info": {
+    "singularName": "bbdd",
+    "pluralName": "bbdds",
+    "displayName": "bbdd"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "apuntes": {
+      "type": "richtext"
+    }
+  }
+}
